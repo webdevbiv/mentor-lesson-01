@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "mentor-lesson-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nvz1994.github.io/lessons/",
+  "homepage": "https://webdevbiv.github.io/mentor-lesson-01/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
